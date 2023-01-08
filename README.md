@@ -1,4 +1,4 @@
-# :crown: Prince of Perisa TT Animation Data
+# :crown: Extract Prince of Perisa Animation Data
 
 In order to use this script you need to download Noesis (c) Richard Whitehouse
 https://richwhitehouse.com/index.php?content=inc_projects.php&showproject=91
